@@ -2,7 +2,7 @@
 
 #### Objective:
 
-The objective of this assignment is for you to articulate the process involved in deploying a Spring Boot application on an Amazon EC2 instance. By describing each step comprehensively, you will demonstrate your understanding of the deployment workflow without performing any practical actions.
+The objective of this assignment is for you to articulate the process involved in deploying a Spring Boot application on an Amazon EC2 instance.
 
 #### Instructions:
 
